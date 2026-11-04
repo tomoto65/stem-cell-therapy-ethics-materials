@@ -1,0 +1,55 @@
+﻿03_造血干细胞基因治疗与公平可及
+
+素材来源地址
+整理日期：2026年11月4日
+
+【论文】An Ethical and Financial Obligation for Sickle Cell Disease Gene Therapy in the United States
+原始地址：https://pmc.ncbi.nlm.nih.gov/articles/PMC11745142/
+下载地址：https://pmc.ncbi.nlm.nih.gov/articles/PMC11745142/pdf/nihms-2006377.pdf
+发布日期：2024-01
+
+【论文】The Ethics of Gene Therapy for Sickle Cell Disease
+原始地址：https://pmc.ncbi.nlm.nih.gov/articles/PMC12013961/
+下载地址：https://assets.cureus.com/uploads/editorial/pdf/322865/20250422-131365-sw4sxt.pdf
+本地文件：论文/%E8%AE%BA%E6%96%87_%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97%E7%9A%84%E7%9F%A5%E6%83%85%E5%90%8C%E6%84%8F%E4%B8%8E%E5%85%AC%E5%B9%B3.pdf
+发布日期：2025-03-23
+
+【论文】An ethical allocation scheme for scarce gene therapies in sickle cell disease and transfusion-dependent β-thalassemia
+原始地址：https://pmc.ncbi.nlm.nih.gov/articles/PMC12447412/
+发布日期：2025-09-09
+
+【报道】FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease
+原始地址：https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease
+本地文件：报道/报道_获批治疗与清髓风险_关键原文.png
+发布日期：2023-12-08
+
+【报道】Promising new gene therapies for sickle cell are out of reach in countries where they’re needed most
+原始地址：https://toronto.citynews.ca/2023/12/14/promising-new-gene-therapies-for-sickle-cell-are-out-of-reach-in-countries-where-theyre-needed-most-2/
+本地文件：报道/报道_高价与全球治疗不平等_关键原文.png
+发布日期：2023-12-14
+
+【报道】Gene therapies for sickle cell disease approved in U.S.
+原始地址：https://www.pbs.org/newshour/health/gene-therapies-for-sickle-cell-disease-approved-in-u-s
+本地文件：报道/报道_疾病负担与供者限制_关键原文.png
+发布日期：2023-12-08
+
+【视频】Why FDA approval of sickle cell gene therapy is a big deal
+原始地址：https://www.pbs.org/video/on-the-cutting-edge-1702152505/
+本地文件：视频/%E8%A7%86%E9%A2%91_%E6%B2%BB%E7%96%97%E8%8E%B7%E6%89%B9%E7%9A%84%E6%84%8F%E4%B9%89.mp4
+发布日期：2023-12-09
+
+【视频】FDA approves new gene therapies for sickle cell disease
+原始地址：https://www.pbs.org/video/fda-approves-new-gene-therapies-for-sickle-cell-disease-68qp/
+本地文件：视频/%E8%A7%86%E9%A2%91_%E6%B2%BB%E7%96%97%E8%B4%B9%E7%94%A8%E4%B8%8E%E5%B0%B1%E5%8C%BB%E9%9A%9C%E7%A2%8D.mp4
+发布日期：2024-01-30
+
+本文件夹内实际素材：
+论文\%E8%AE%BA%E6%96%87_%E5%9F%BA%E5%9B%A0%E6%B2%BB%E7%96%97%E7%9A%84%E7%9F%A5%E6%83%85%E5%90%8C%E6%84%8F%E4%B8%8E%E5%85%AC%E5%B9%B3.pdf
+报道\报道_获批治疗与清髓风险_标题原图.png
+报道\报道_获批治疗与清髓风险_关键原文.png
+报道\报道_高价与全球治疗不平等_标题原图.png
+报道\报道_高价与全球治疗不平等_关键原文.png
+报道\报道_疾病负担与供者限制_标题原图.png
+报道\报道_疾病负担与供者限制_关键原文.png
+视频\%E8%A7%86%E9%A2%91_%E6%B2%BB%E7%96%97%E8%8E%B7%E6%89%B9%E7%9A%84%E6%84%8F%E4%B9%89.mp4
+视频\%E8%A7%86%E9%A2%91_%E6%B2%BB%E7%96%97%E8%B4%B9%E7%94%A8%E4%B8%8E%E5%B0%B1%E5%8C%BB%E9%9A%9C%E7%A2%8D.mp4

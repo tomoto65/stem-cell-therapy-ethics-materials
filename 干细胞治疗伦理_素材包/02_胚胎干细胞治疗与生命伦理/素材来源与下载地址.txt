@@ -1,0 +1,46 @@
+﻿02_胚胎干细胞治疗与生命伦理
+
+素材来源地址
+整理日期：2026年11月4日
+
+【论文】Stem Cell–Derived, Fully Differentiated Islets for Type 1 Diabetes
+原始地址：https://www.nejm.org/doi/10.1056/NEJMoa2506549
+下载地址：https://www.surgery.pitt.edu/sites/default/files/Reichman%20VX-880%20NEJM%202025.pdf
+本地文件：论文/%E8%AE%BA%E6%96%87_%E8%83%B0%E5%B2%9B%E6%9B%BF%E4%BB%A3%E6%B2%BB%E7%96%97%E7%9A%84%E6%97%A9%E6%9C%9F%E8%AF%81%E6%8D%AE.pdf
+发布日期：2025-06-20
+
+【论文】Ethical issues in stem cell research and therapy
+原始地址：https://pmc.ncbi.nlm.nih.gov/articles/PMC4097842/
+下载地址：https://stemcellres.biomedcentral.com/counter/pdf/10.1186/scrt474.pdf
+本地文件：论文/%E8%AE%BA%E6%96%87_%E5%B9%B2%E7%BB%86%E8%83%9E%E7%A0%94%E7%A9%B6%E4%B8%8E%E6%B2%BB%E7%96%97%E4%BC%A6%E7%90%86.pdf
+发布日期：2014-07-07
+
+【报道】Giant leap against diabetes
+原始地址：https://news.harvard.edu/gazette/story/2014/10/giant-leap-against-diabetes/
+本地文件：报道/报道_胚胎来源与治疗希望_标题原图.png；报道/报道_胚胎来源与治疗希望_关键原文.png
+发布日期：2014-10-09
+
+【报道】Stem cell-derived therapy enables insulin independence in early clinical trial for Type 1 diabetes
+原始地址：https://www.uhn.ca/corporate/News/PressReleases/Pages/stem-cell-derived-therapy-enables-insulin-independence-clinical-trial-for-type1-diabetes.aspx
+本地文件：报道/报道_糖尿病试验获益与风险_标题原图.png；报道/报道_糖尿病试验获益与风险_关键原文.png
+发布日期：2025-06-20
+
+【视频】How Embryonic Stem Cell Lines are Made
+原始地址：https://dnalc.cshl.edu/view/16991-How-Embryonic-Stem-Cell-Lines-are-Made.html
+下载地址：https://content.dnalc.org/content/c16/16991/embryonic-stem-cells.mp4
+本地文件：视频/视频_胚胎取材与细胞系建立.mp4
+
+【视频】Different Types of Stem Cells
+原始地址：https://dnalc.cshl.edu/view/1157-Different-Types-of-Stem-Cells.html
+下载地址：https://content.dnalc.org/content/1157/DavidAnderson4.mp4
+本地文件：视频/视频_区分不同来源干细胞.mp4
+
+本文件夹内实际素材：
+论文\%E8%AE%BA%E6%96%87_%E8%83%B0%E5%B2%9B%E6%9B%BF%E4%BB%A3%E6%B2%BB%E7%96%97%E7%9A%84%E6%97%A9%E6%9C%9F%E8%AF%81%E6%8D%AE.pdf
+论文\%E8%AE%BA%E6%96%87_%E5%B9%B2%E7%BB%86%E8%83%9E%E7%A0%94%E7%A9%B6%E4%B8%8E%E6%B2%BB%E7%96%97%E4%BC%A6%E7%90%86.pdf
+报道\报道_胚胎来源与治疗希望_标题原图.png
+报道\报道_胚胎来源与治疗希望_关键原文.png
+报道\报道_糖尿病试验获益与风险_标题原图.png
+报道\报道_糖尿病试验获益与风险_关键原文.png
+视频\视频_胚胎取材与细胞系建立.mp4
+视频\视频_区分不同来源干细胞.mp4

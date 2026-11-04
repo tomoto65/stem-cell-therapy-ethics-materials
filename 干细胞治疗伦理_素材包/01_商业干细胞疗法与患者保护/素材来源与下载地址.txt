@@ -1,0 +1,56 @@
+﻿01_商业干细胞疗法与患者保护
+
+素材来源地址
+整理日期：2026年11月4日
+
+【论文】Vision Loss after Intravitreal Injection of Autologous Stem Cells for AMD
+原始地址：https://pubmed.ncbi.nlm.nih.gov/28296617/
+下载地址：https://pmc.ncbi.nlm.nih.gov/articles/PMC5551890/pdf/nihms890893.pdf
+发布日期：2017-03-16
+
+【论文】Unproven stem cell therapy for macular degeneration
+原始地址：https://pmc.ncbi.nlm.nih.gov/articles/PMC5710873/
+下载地址：https://pmc.ncbi.nlm.nih.gov/articles/PMC5710873/pdf/oncotarget-08-90636.pdf
+发布日期：2017-10-31
+
+【论文】Unproven stem cell–based interventions and achieving a compromise policy among the multiple stakeholders
+原始地址：https://link.springer.com/article/10.1186/s12910-015-0069-x
+下载地址：https://bmcmedethics.biomedcentral.com/track/pdf/10.1186/s12910-015-0069-x
+本地文件：论文/论文_患者选择与监管折中.pdf
+发布日期：2015-11-04
+
+【论文】Concise Review: A Comprehensive Analysis of Reported Adverse Events in Patients Receiving Unproven Stem Cell-Based Interventions
+原始地址：https://stemcellsjournals.onlinelibrary.wiley.com/doi/10.1002/sctm.17-0282
+下载地址：https://rickjaffeesq.com/wp-content/uploads/2018/08/Bauer_et_al-2018-STEM_CELLS_Translational_Medicine-1.pdf
+本地文件：论文/论文_未经证实疗法的不良事件.pdf
+发布日期：2018
+
+【报道】Commentary on Stem Cell Therapies: If You’re Asked to Pay, Walk Away
+原始地址：https://www.urmc.rochester.edu/news/story/commentary-on-stem-cell-therapies-if-youre-asked-to-pay-walk-away
+本地文件：报道/报道_收费注射后失明_标题原图.png；报道/报道_收费注射后失明_关键原文.png
+发布日期：2017-03-15
+
+【报道】U.S. stem cell clinics boomed while FDA paused crackdown
+原始地址：https://www.pbs.org/newshour/science/us-stem-cell-clinics-boomed-while-fda-paused-crackdown
+本地文件：报道/报道_监管宽限与诊所扩张_标题原图.png；报道/报道_监管宽限与诊所扩张_关键原文.png
+发布日期：2021-09-30
+
+【视频】[共同关注]真相来了：网上售卖“干细胞产品” 万能神药还是智商税？
+原始地址：https://tv.cctv.com/2025/05/28/VIDEzSwCn5yN4lmCsGSYfZsU250528.shtml
+本地文件：视频/视频_干细胞产品宣传辨伪.mp4
+发布日期：20250528
+
+【视频】[新闻30分]江苏警方摧毁一诈骗老年人犯罪团伙 天价“干细胞”疗法未经科学论证
+原始地址：https://tv.cctv.com/2019/05/24/VIDEp92pHqd0UrepLv6ZVpEh190524.shtml
+本地文件：视频/视频_天价疗法与老年人受骗.mp4
+发布日期：20190524
+
+本文件夹内实际素材：
+论文\论文_患者选择与监管折中.pdf
+论文\论文_未经证实疗法的不良事件.pdf
+报道\报道_收费注射后失明_标题原图.png
+报道\报道_收费注射后失明_关键原文.png
+报道\报道_监管宽限与诊所扩张_标题原图.png
+报道\报道_监管宽限与诊所扩张_关键原文.png
+视频\视频_干细胞产品宣传辨伪.mp4
+视频\视频_天价疗法与老年人受骗.mp4
