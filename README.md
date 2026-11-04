@@ -10,7 +10,7 @@
 
 ## 下载与使用
 
-[下载完整素材包（含全部视频）](https://github.com/tomoto65/stem-cell-therapy-ethics-materials/releases/download/v1.0.0/%E5%B9%B2%E7%BB%86%E8%83%9E%E6%B2%BB%E7%96%97%E4%BC%A6%E7%90%86_%E6%9C%80%E7%BB%88%E4%BA%A4%E4%BB%98.zip)
+[下载完整素材包（含全部视频）](https://github.com/tomoto65/stem-cell-therapy-ethics-materials/releases/download/v1.0.0/stem-cell-therapy-ethics-materials-v1.0.0.zip)
 
 解压后打开文件夹中的 **资料总览.html**。使用 Edge 或 Chrome 可浏览文字、查看高清标注图并播放视频。
 
